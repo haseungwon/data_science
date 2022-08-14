@@ -16,3 +16,6 @@ jupiter notebook와 파이썬을 이용한 데이터 분석 &amp; 데이터 분�
 - [tensorflow 기초3](https://github.com/haseungwon/data_science/blob/master/tensorflow%EA%B8%B0%EC%B4%884.ipynb)
 
 ## Simple Assignment
+
+- [위키피디아 코로나 정보 가공하기](https://github.com/haseungwon/data_science/blob/master/Basic%20Data%20Processing%20for%20Data%20Visualization.ipynb)
+- [Simple data visualization](https://github.com/haseungwon/data_science/blob/master/Basic%20Data%20Processing%20for%20Data%20Visualization.ipynb)
