@@ -14,3 +14,5 @@ jupiter notebook와 파이썬을 이용한 데이터 분석 &amp; 데이터 분�
 - [tensorflow 기초2](https://github.com/haseungwon/data_science/blob/master/tensorflow%EA%B8%B0%EC%B4%882.ipynb)
 - [tensorflow 기초3](https://github.com/haseungwon/data_science/blob/master/tensorflow%EA%B8%B0%EC%B4%883.ipynb)
 - [tensorflow 기초3](https://github.com/haseungwon/data_science/blob/master/tensorflow%EA%B8%B0%EC%B4%884.ipynb)
+
+## Simple Assignment
